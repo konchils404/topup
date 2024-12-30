@@ -24,15 +24,15 @@ pip install aiohttp
 ```
 
 ```bash
-git clone https://github.com/konchils404/bussid.git
+git clone https://github.com/konchils404/topup.git
 ```
 
 ```bash
-cd bussid
+cd topup
 ```
 
 ```bash
-python bussid.py
+python main.py
 ```
 
 
@@ -40,9 +40,9 @@ python bussid.py
 
 • [Termux](https://f-droid.org/repo/com.termux_1000.apk)  (Jika Blm punya)
 
-• [HTTP Canary Revolt](https://github.com/konchils404/bussid/releases/download/release/HttpCanary.apk) (Http Canary)
+• [HTTP Canary Revolt](https://github.com/konchils404/topup/releases/download/release/HttpCanary.apk) (Http Canary)
 
-• [BUSSID 3.6.1](https://m.apkpure.com/id/bus-simulator-indonesia/com.maleo.bussimulatorid/download/3.6.1) ( wajib! hanya untuk mengambil token! ) 
+• [BUSSID Versi 3.6.1](https://m.apkpure.com/id/bus-simulator-indonesia/com.maleo.bussimulatorid/download/3.6.1) ( wajib! hanya untuk mengambil token! ) 
 > jika pake bussid versi terbaru, token / device id tidak muncul.
 
 > Setelah topup selesai bisa langsung update bussid ke Versi Terbaru!
